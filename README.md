@@ -14,3 +14,4 @@ Este projeto foi criado para aprender a utilizar o GitHub
 - registrar alterações com commits
 - criar novos projetos
 - primeira modificação de teste
+- Testando alterações em uma branch separada
